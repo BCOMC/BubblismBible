@@ -1,0 +1,36 @@
+body {
+	font-family: "Marker Felt","Comic Sans MS", fantasy;
+	color:#003366;
+	}
+
+h1 {
+	box-shadow: 10px 10px 10px #444444;
+	font-size: 1.3em;
+	border: 3px dotted #ffff99;
+	text-align:center;
+	background-color:#9FB6CD; 
+	padding: 5px;
+	margin-left:5em;
+	margin-right:5em;
+	}
+
+table {
+	box-shadow: 10px 10px 10px #444444;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	border-collapse: collapse;
+	}
+
+td {
+	border: 1px solid #ffffff;
+	text-align:center;
+	background-color:#9FB6CD; 
+	color: black;
+	}
+
+th {
+	text-align:center;
+	color:#ffffff;
+	background-color:#003366;
+	}
