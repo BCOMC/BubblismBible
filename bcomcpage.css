@@ -12,14 +12,17 @@ h1 {
 	text-align:right;
 	padding: 5px;
 	margin-left:5em;
-	margin-right:5em
+	margin-right:5em;
+	margin-bottom:0em;
+	border-bottom: thick solid #000022
 	}
 h2 {
 	font-size: 1.3em;
 	text-align:right;
 	padding: 5px;
 	margin-left:5em;
-	margin-right:5em
+	margin-right:5em;
+	margin-top:0em
 	}
 h3 {
 	border-bottom: thick solid #000022;
