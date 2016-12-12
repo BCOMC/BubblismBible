@@ -19,10 +19,13 @@ h1 {
 	}
 
 h3 {
+	border: 3px dotted #ffff99;
 	border-bottom: thick solid #ffff99;
-	text-align:center;
+	text-align:left;
 	background-color:#9FB6CD; 
 	padding: 5px
+	margin-left:0em;
+	margin-right:0em;
 	}
 
 table {
