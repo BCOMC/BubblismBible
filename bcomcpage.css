@@ -9,12 +9,14 @@ p {
 	text-indent: 60px
 	}
 h1 {
+	width:200px;
 	font-size: 1.3em;
 	text-align: right;
 	margin-bottom: 0em;
 	border-bottom: thick solid #000022
 	}
 h2 {
+	width:200px;
 	font-size: 1.3em;
 	text-align: right;
 	margin-top: 0em
