@@ -12,32 +12,21 @@ h1 {
 	font-size: 1.3em;
 	text-align: right;
 	padding: 5px;
-	margin-left: 5em;
-	margin-right: 5em;
 	margin-bottom: 0em;
 	border-bottom: thick solid #000022
 	}
 h2 {
 	font-size: 1.3em;
-	text-align:right;
+	text-align: right;
 	padding: 5px;
-	margin-left: 5em;
-	margin-right: 5em;
 	margin-top: 0em
-	}
-h3 {
-	border-bottom: thick solid #000022;
-	text-align: left;
-	background-color: #9FB6CD; 
-	margin: 0
 	}
 
 table {
-	box-shadow: 10px 10px 10px #444444;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: left;
-	border-collapse: collapse;
+	border-bottom: thick solid #000022;
+	background-color: #9FB6CD; 
+	margin: 0;
+	text-align: center
 	}
 
 td {
