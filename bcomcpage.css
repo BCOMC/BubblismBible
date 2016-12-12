@@ -1,6 +1,7 @@
 body {
 	font-family: "Marker Felt","Comic Sans MS", fantasy;
-	color: #003366
+	color: #003366;
+	padding: 0
 	}
 p {
 	margin-left: 40px;
@@ -28,7 +29,7 @@ h3 {
 	border-bottom: thick solid #000022;
 	text-align: left;
 	background-color: #9FB6CD; 
-	margin: 0em
+	margin: 0
 	}
 
 table {
