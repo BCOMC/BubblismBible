@@ -18,6 +18,14 @@ h1 {
 	margin-right:5em;
 	}
 
+h1 {
+	font-size: 1.3em;
+	border-bottom: 3px solid #ffff99;
+	text-align:center;
+	background-color:#9FB6CD; 
+	padding: 5px;
+	}
+
 table {
 	box-shadow: 10px 10px 10px #444444;
 	margin-left:auto;
