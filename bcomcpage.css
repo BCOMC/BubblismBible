@@ -10,7 +10,8 @@ p {
 	font-size: 1.3em;
 	margin-left: 40px;
 	margin-right: 40px;
-	text-indent: 60px
+	text-indent: 60px;
+	background-color:rgba(0, 0, 0, 0.5);
 	}
 h1 {
 	width:300px;
