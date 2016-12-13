@@ -6,6 +6,8 @@ body {
 	background-image:url("universe.jpg");
 	}
 p {
+	color: #ffffff;
+	font-size: 1.3em;
 	margin-left: 40px;
 	margin-right: 40px;
 	text-indent: 60px
