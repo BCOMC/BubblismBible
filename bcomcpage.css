@@ -1,7 +1,8 @@
 body {
 	font-family: "Marker Felt","Comic Sans MS", fantasy;
 	color: #003366;
-	padding: 0
+	padding: 0;
+	background-color:#555555;
 	}
 p {
 	margin-left: 40px;
