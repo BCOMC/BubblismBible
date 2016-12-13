@@ -9,16 +9,16 @@ p {
 	text-indent: 60px
 	}
 h1 {
-	width:200px;
+	width:300px;
 	font-size: 1.3em;
-	text-align: right;
+	text-align: center;
 	margin-bottom: 0em;
 	border-bottom: thick solid #000022
 	}
 h2 {
-	width:200px;
+	width:300px;
 	font-size: 1.3em;
-	text-align: right;
+	text-align: center;
 	margin-top: 0em
 	}
 h3 {
