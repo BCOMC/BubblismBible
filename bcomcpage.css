@@ -27,7 +27,8 @@ h3 {
 
 table {
 	border-bottom: thick solid #000000;
-	background-color:rgba(0, 0, 0, 0.5);
+	background-color:#000000;
+	opacity:0.8;
 	margin: 0;
 	text-align: center
 	}
