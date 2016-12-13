@@ -4,6 +4,9 @@ body {
 	font-size: 1.3em;
 	padding: 0;
 	background-image:url("universe.jpg");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-position: center;
 	}
 p {
 	color: #ffffff;
