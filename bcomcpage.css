@@ -7,13 +7,13 @@ html
    	margin: 0px;
    	padding: 0px;
     	overflow-x: visible; 
-  	background-size: cover;
+  	background-size: cover
 	}
 body {
 	font-family: "Marker Felt","Comic Sans MS", fantasy;
 	color: #ffffff;
 	font-size: 1.3em;
-	padding: 0;
+	padding: 0
 	}
 p {
 	color: #ffffff;
@@ -21,20 +21,20 @@ p {
 	margin-left: 40px;
 	margin-right: 40px;
 	text-indent: 60px;
-	background-color:rgba(0, 0, 0, 0.5);
+	background-color:rgba(0, 0, 0, 0.5)
 	}
 h1 {
 	width:300px;
 	font-size: 1.3em;
 	text-align: center;
 	margin-bottom: 0em;
-	border-bottom: thin solid #ffffff;
+	border-bottom: thin solid #ffffff
 	}
 h2 {
 	width:300px;
 	font-size: 1.3em;
 	text-align: center;
-	margin-top: 0em;
+	margin-top: 0em
 	}
 h3 {
 	text-align: left
@@ -46,7 +46,7 @@ table {
 	text-align: center
 	}
 th {
-	text-align:center;
+	text-align:center
 	}
 img {
 	width: 100%;
