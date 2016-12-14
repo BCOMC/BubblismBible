@@ -6,7 +6,7 @@ html
    	height: 100%;
    	margin: 0px;
    	padding: 0px;
-    	overflow-x: hidden; 
+    	overflow-x: visible; 
 	}
 body {
 	font-family: "Marker Felt","Comic Sans MS", fantasy;
