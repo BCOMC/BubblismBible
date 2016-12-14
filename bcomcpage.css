@@ -28,21 +28,18 @@ h1 {
 	text-align: center;
 	margin-bottom: 0em;
 	border-bottom: thin solid #ffffff;
-	float: right
 	}
 h2 {
 	width:300px;
 	font-size: 1.3em;
 	text-align: center;
 	margin-top: 0em;
-	float: right
 	}
 h3 {
 	text-align: left
 	}
 
 table {
-	border-bottom: thick solid #000000;
 	background-color:rgba(0, 0, 0, 0.5);
 	margin: 0;
 	text-align: center
